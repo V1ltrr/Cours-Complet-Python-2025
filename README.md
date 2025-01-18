@@ -1,9 +1,9 @@
 # __Cours Complet Python - 2025__
 
-📘 Cours Python : Débutez avec les Bases
+## __📘 Cours Python : Débutez avec les Bases__
 Bienvenue dans ce dépôt GitHub ! Vous trouverez ici un cours complet pour apprendre le langage de programmation Python, même si vous partez de zéro. Ce cours est conçu pour être accessible, progressif et pratique, avec des exemples de code à chaque étape.
 
-✨ Contenu du Cours
+## __✨ Contenu du Cours__
 Introduction : Pourquoi apprendre Python ?
 La Syntaxe : Premiers pas avec le langage.
 Les Opérateurs : Mathématiques et comparaison.
@@ -15,11 +15,13 @@ Les Listes, Tuples et Dictionnaires : Travaillez avec des collections de donnée
 Les Modules : Étendez les fonctionnalités de Python.
 La Gestion des Fichiers : Lisez et écrivez dans des fichiers.
 Les Classes et la Programmation Orientée Objet : Organisez votre code comme un pro.
-🛠️ Fonctionnalités
+
+## __🛠️ Fonctionnalités__
 Des chapitres bien structurés avec des exemples clairs.
 Des explications accessibles, même pour les débutants.
 Du code prêt à être copié et exécuté dans un environnement Python.
-🚀 Pour Commencer
+
+## __🚀 Pour Commencer__
 Pré-requis
 Python 3.x doit être installé sur votre ordinateur.
 Un éditeur de texte ou un environnement de développement intégré (IDE) comme Visual Studio Code.
@@ -31,14 +33,16 @@ Modifier
 git clone https://github.com/votre-utilisateur/cours-python.git
 cd cours-python
 Lisez les fichiers .md et exécutez les exemples dans un interpréteur Python.
-📂 Structure du Dépôt
+
+## __📂 Structure du Dépôt__
 chapitres/ : Dossier contenant les fichiers pour chaque chapitre du cours.
 README.md : Ce fichier d’introduction.
 exemples/ : Dossier contenant du code pratique.
-🎯 Objectif
+
+## __🎯 Objectif__
 À la fin de ce cours, vous aurez une bonne maîtrise des bases de Python et serez prêt à explorer des projets plus avancés.
 
-❤️ Contribution
+## ❤️ Contribution
 Si vous souhaitez contribuer à ce cours, vos suggestions et améliorations sont les bienvenues. Ouvrez une issue ou soumettez une pull request.
 
 📩 Contact
