@@ -24,6 +24,6 @@ Du code prêt à être copié et exécuté dans un environnement Python.
 ## __🎯 Objectif__
 À la fin de ce cours, vous aurez une bonne maîtrise des bases de Python et serez prêt à explorer des projets plus avancés.
 
-## Note
+## ⚠️ Note ⚠️
 Ce cours ne peut être dupliqué ou être utilisé dans une utilisation commerciale sans mon accord.
 
