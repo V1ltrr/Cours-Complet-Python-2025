@@ -19,7 +19,7 @@ age = 25
 nom = "Alice"
 ```
 ### <u>Règles pour nommer des variables</u>
-- Utilisez des lettres (a-z, A-Z), des chiffres (0-9) et des underscores (`_`).
+- Utilisez des lettres (a-z, A-Z), des chiffres (0-9) et des underscores (**_**).
 - Ne commencez jamais par un chiffre.
 - Évitez d'utiliser les mots-clés réservés de Python, comme **for**, **if**, **while**, etc.
 
