@@ -1,11 +1,10 @@
 # __Cours Complet Python - 2025__
 
-## __Cours Python : Débutez avec les Bases__
+## __Cours Python : Niveau débutant-intermédiaire__
 Bienvenue dans ce dépôt GitHub ! Vous trouverez ici un cours complet pour apprendre le langage de programmation Python, même si vous partez de zéro. Ce cours est conçu pour être accessible, progressif et pratique, avec des exemples de code à chaque étape.
 
 ## __Infos Supplémentaires__
 Des chapitres bien structurés avec des exemples clairs.
-Des explications accessibles, même pour les débutants.
 Du code prêt à être copié et exécuté dans un environnement Python.
 
 ## __Objectif__
