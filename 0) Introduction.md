@@ -14,7 +14,7 @@ Par ailleurs, Python est le langage informatique le plus populaire **pour le tr
 - **Langage à typage dynamique** : En Python, les types de variables sont déterminés automatiquement, ce qui signifie qu’on n’a pas besoin de les déclarer explicitement.
 - **Indentation significative** : L'indentation (avec des espaces ou des tabulations) est essentielle pour structurer le code en Python, contrairement à d'autres langages qui utilisent des accolades.
 - **Bibliothèque standard riche** : Python dispose d’une vaste bibliothèque standard qui permet d'accomplir de nombreuses tâches sans installer de packages supplémentaires.
-- **Gestion des exceptions** : Python utilise les blocs `try`, `except`, et `finally` pour gérer les erreurs et assurer une exécution fluide du programme.
+- **Gestion des exceptions** : Python utilise les blocs **try**, **except**, et **finally** pour gérer les erreurs et assurer une exécution fluide du programme.
 - **Communauté et écosystème** : La communauté Python est très active, ce qui permet d'avoir accès à une documentation abondante, des forums d’aide, et des milliers de bibliothèques tierces.
 - **Multi-paradigme** : Python supporte la programmation orientée objet, fonctionnelle, et impérative, offrant ainsi une grande flexibilité.
 - **Portabilité** : Python est multiplateforme et peut s’exécuter sur différents systèmes d’exploitation comme Windows, mac OS, et Linux sans modifications majeures.
