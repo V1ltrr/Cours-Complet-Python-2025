@@ -33,8 +33,8 @@ print(fruits[-1]) # cerise (dernier élément)
 ```
 # <u>Modifier une liste</u>
 Ajouter un élément :
-- **append()** : Ajoute un élément à la fin de la liste.
-- **insert(index, element)** : Insère un élément à une position donnée.
+- `append()` : Ajoute un élément à la fin de la liste.
+- `insert(index, element)` : Insère un élément à une position donnée.
 
 ### Exemple
 ```py
@@ -49,10 +49,10 @@ fruits[0] = "kiwi"  # Remplace "pomme" par "kiwi"
 print(fruits)  # ['kiwi', 'orange', 'banane', 'cerise']
 ```
 # <u>Supprimer un élément</u>
-- **remove(element)** : Supprime le premier élément correspondant.
-- **pop(index)** : Supprime l'élément à l'index donné (ou le dernier si aucun index n'est fourni).
-- **del liste[index]** : Supprime un élément à un index donné.
-- **clear()** : Vide entièrement la liste.
+- `remove(element)` : Supprime le premier élément correspondant.
+- `pop(index)` : Supprime l'élément à l'index donné (ou le dernier si aucun index n'est fourni).
+- `del liste[index]` : Supprime un élément à un index donné.
+- `clear()` : Vide entièrement la liste.
 
 ### Exemple
 ```py
