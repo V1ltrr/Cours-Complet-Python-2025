@@ -1,7 +1,7 @@
 Une fonction est un bloc de code réutilisable qui exécute une tâche précise. En Python, les fonctions permettent de structurer le code, d'améliorer sa lisibilité et de réduire la répétition.
 
 # <u>Définir une fonction</u>
-Une fonction se définit avec le mot-clé **def**, suivi du nom de la fonction et d’éventuels paramètres entre parenthèses.
+Une fonction se définit avec le mot-clé `def`, suivi du nom de la fonction et d’éventuels paramètres entre parenthèses.
 
 ### Syntaxe
 ```py
@@ -42,7 +42,7 @@ saluer()              # Bonjour, inconnu !
 saluer("Marie")       # Bonjour, Marie !
 ```
 # <u>Les fonctions avec retour de valeur</u>
-La fonction peut renvoyer un résultat avec le mot-clé **return**, ce qui permet de l’utiliser ailleurs dans le programme.
+La fonction peut renvoyer un résultat avec le mot-clé `return`, ce qui permet de l’utiliser ailleurs dans le programme.
 
 ### Exemple
 ```py
