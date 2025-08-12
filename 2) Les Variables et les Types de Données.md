@@ -1,5 +1,5 @@
 # <u>Les Variables :</u>
-Une variable est un conteneur qui permet de stocker des données. En Python, on crée une variable en lui attribuant une valeur avec le symbole **=**.
+Une variable est un conteneur qui permet de stocker des données. En Python, on crée une variable en lui attribuant une valeur avec le symbole `=`.
 
 ### Règles de nommage
 1. Le nom d'une variable doit commencer par une lettre ou un underscore (`_`).
