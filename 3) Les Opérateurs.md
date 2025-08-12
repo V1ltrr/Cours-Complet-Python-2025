@@ -26,12 +26,12 @@ reste = a % b               # 0
 puissance = a ** 2          # 100
 ```
 # <u>Les opérateurs de comparaison</u>
-- Égal à : ==
-- Différent de : **!=**
-- Plus grand que : **>**
-- Plus petit que : **<**
-- Plus grand ou égal à : **>=**
-- Plus petit ou égal à : **<=**
+- Égal à : `==`
+- Différent de : `!=`
+- Plus grand que : `>`
+- Plus petit que : `<`
+- Plus grand ou égal à : `>=`
+- Plus petit ou égal à : `<=`
 ```py
 x = 10
 y = 20
