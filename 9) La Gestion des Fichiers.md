@@ -1,6 +1,6 @@
 Python permet de lire, écrire et manipuler des fichiers (texte, binaire, etc.) facilement. Ce chapitre couvre les bases pour interagir avec des fichiers dans vos programmes.
 # <u>Ouvrir et fermer un fichier</u>
-Pour travailler avec un fichier, il faut d’abord l’ouvrir avec la fonction **open()**, puis le fermer une fois l’opération terminée.
+Pour travailler avec un fichier, il faut d’abord l’ouvrir avec la fonction `open()`, puis le fermer une fois l’opération terminée.
 ### Syntaxe
 ```py
 fichier = open("nom_du_fichier", mode)
