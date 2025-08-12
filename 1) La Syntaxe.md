@@ -27,6 +27,8 @@ nom = "Alice"
 Vous pouvez réassigner une nouvelle valeur à une variable existante :
 ```py
 age = 30
+nom = "Alice"
+age = 40
 ```
 ### <u>Type de données et conversion</u>
 Pour convertir une donnée en un autre type, utilisez les fonctions de conversion :
