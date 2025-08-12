@@ -25,9 +25,9 @@ for lettre in "Python":
 # <u>La fonction "**range( )**"</u>
 La fonction **range()** est souvent utilisée avec les boucles **for** pour générer une plage de nombres.
 
-- **range(stop)** : Génère les nombres de **0** à **stop - 1**.
-- **range(start, stop)** : Génère les nombres de **start** à **stop - 1**.
-- **range(start, stop, step)** : Génère les nombres de **start** à **stop - 1** avec un intervalle de **step**.
+- `range(stop)` : Génère les nombres de **0** à **stop - 1**.
+- `range(start, stop)` : Génère les nombres de **start** à **stop - 1**.
+- `range(start, stop, step)` : Génère les nombres de **start** à **stop - 1** avec un intervalle de **step**.
 
 ### Exemple
 ```py
@@ -62,9 +62,9 @@ while True:
         break  # Interrompt la boucle
 ```
 # <u>Instruction utiles avec les boucles</u>
-- **break** : Interrompt la boucle immédiatement.
-- **continue** : Passe directement à l'itération suivante de la boucle.
-- **else** : Code exécuté lorsque la boucle se termine sans interruption (**break**).
+- `break` : Interrompt la boucle immédiatement.
+- `continue` : Passe directement à l'itération suivante de la boucle.
+- `else` : Code exécuté lorsque la boucle se termine sans interruption (**break**).
 
 ### Exemple
 ```py
