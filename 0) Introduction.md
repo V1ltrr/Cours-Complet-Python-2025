@@ -2,7 +2,7 @@
 
 ## <u>Définition :</u>
 
-Python est un **langage de programmation informatique généraliste**. Contrairement à HTML, CSS ou JavaScript, son usage n’est donc pas limité au développement web. Il peut être utilisé pour tout type de programmation et de développement logiciel.
+Python est un langage de programmation informatique **généraliste**. Contrairement à HTML, CSS ou JavaScript, son usage n’est donc pas limité au développement web. Il peut être utilisé pour tout type de programmation et de développement logiciel.
 
 On s’en sert notamment pour le **développement back-end** d’applications web ou mobile, et pour **le développement de logiciels** et d’applications pour PC. Il permet également d’écrire des scripts système, afin de créer des instructions pour un système informatique.
 
