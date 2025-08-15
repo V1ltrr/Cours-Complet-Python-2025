@@ -1,5 +1,22 @@
 # __Cours Complet Python - 2025__
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/v1ltrr/Cours-Complet-Python-2025?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/v1ltrr/Cours-Complet-Python-2025?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/v1ltrr/Cours-Complet-Python-2025?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/v1ltrr/Cours-Complet-Python-2025?color=teal&style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-htr--tech-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fv1ltrr%2FCours-Complet-Python-2025&title=Visitors&edge_flat=false"/></a>
+</p>
+
+
 ## __Cours Python : Niveau débutant-intermédiaire__
 Bienvenue dans ce dépôt GitHub ! Vous trouverez ici un cours complet pour apprendre le langage de programmation Python, même si vous partez de zéro. Ce cours est conçu pour être accessible, progressif et pratique, avec des exemples de code à chaque étape.
 
