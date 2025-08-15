@@ -1,4 +1,4 @@
-<h1 align="center">  # __Cours Complet Python - 2025__ </h1>
+<h1 align="center">  Cours Complet Python - 2025 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
