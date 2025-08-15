@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
 </p>
 
+---
 
 ## __Cours Python : Niveau débutant-intermédiaire__
 Bienvenue dans ce dépôt GitHub ! Vous trouverez ici un cours complet pour apprendre le langage de programmation Python, même si vous partez de zéro. Ce cours est conçu pour être accessible, progressif et pratique, avec des exemples de code à chaque étape.
