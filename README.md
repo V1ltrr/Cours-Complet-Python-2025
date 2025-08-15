@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fv1ltrr%2FCours-Complet-Python-2025&title=Visitors&edge_flat=false"/></a>
 </p>
 
 
